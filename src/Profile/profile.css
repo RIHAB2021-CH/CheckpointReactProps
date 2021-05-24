@@ -1,0 +1,11 @@
+ul li {display: inline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.114rem;
+    font-weight: bold;
+    max-width: 19rem;
+    text-align: center;
+    margin: 1rem 0.789rem ;
+    padding:3rem 0;}
+.title{font-size: 1.287rem;
+font-weight: bolder;
+text-decoration:underline ;}
